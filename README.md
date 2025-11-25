@@ -220,6 +220,8 @@ It's free & open-source. Enjoy! 🚀
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
 | ✨ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle | 2025-12-01 |
+| ⚙️ | Clappia | https://www.clappia.com/black-friday-offer
+ | AI-powered no-code app builder to create business apps without coding using 100+ pre-built components, workflows, GPS tracking, dashboards & automation. | 50% OFF all annual plans with code BLCKFRD25 | 2025-12-05 |
 
 
 ### Productivity
